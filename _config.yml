@@ -1,14 +1,14 @@
-layout_spectrum: 0.32504037441685796
-typography_spectrum: 0.40507957618683577
+layout_spectrum: 0.36902652448043227
+typography_spectrum: 0.4537291566375643
 color:
-  brandStrength: 0.5929903143551201
-  lightness: 0.66814413969405
-  saturation: 0.6659750118851662
-  rhythmicContrast: 0.6201905615162104
+  brandStrength: 0.6747929095290601
+  lightness: 0.5782266627065837
+  saturation: 0.43009297526441514
+  rhythmicContrast: 0.5777130138594657
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: your sensual life
