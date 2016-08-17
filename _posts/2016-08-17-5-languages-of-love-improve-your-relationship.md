@@ -1,20 +1,20 @@
 ---
-description: 5 Languages of Love - Improve Your Relationship
-dateModified: '2016-08-17T03:47:14.173Z'
-datePublished: '2016-08-17T03:47:23.905Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-17T15:25:05.305Z'
 sourcePath: _posts/2016-08-17-5-languages-of-love-improve-your-relationship.md
+author: []
+via: {}
+dateModified: '2016-08-17T03:50:53.691Z'
+title: ''
+publisher: {}
+description: 5 Languages of Love - Improve Your Relationship
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2793c7d3-fd9d-45d1-8fdb-6c59ee63fcd0.jpg)
+![Most of us grow up learning the language of our parents, which becomes our native tongue. Later we may learn additional languages, but usually with much more effort. In the area of love, it is similar. Your emotional love language and that of your partner may be as different as French from English – no matter how hard you try to express love in English, if your partner only understands French, you’ll never understand how to love each other.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2793c7d3-fd9d-45d1-8fdb-6c59ee63fcd0.jpg)
 
 **5 Languages of Love - Improve Your Relationship**
 
